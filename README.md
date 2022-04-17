@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @followuq
+- 👀 I’m interested in Python, programming and technologies
+- 🌱 I’m currently learning Python, OOP
+- 📫 How to reach me: followuq@gmail.com, www.linkedin.com/in/yuri-rybojchuk-a7a06820b
